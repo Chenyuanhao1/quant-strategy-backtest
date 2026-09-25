@@ -11,6 +11,7 @@ Simulated stock price data, randomly generated, not real market data.
 
 ## Visualization
 `portfolio_curve.png`: Net asset value curve comparison between strategy and buy&hold.
+![Portfolio Curve](portfolio_curve.png)
 
 ## How to Run
 1. Install required packages: `pip install numpy pandas matplotlib`
